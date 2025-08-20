@@ -5,7 +5,7 @@ import './App.css'
 import Header from "./components/Header.jsx"
 import Card from "./components/Card.jsx"
 import cardData from "./components/cardData.js"
-import Sidebar from "./components/sideBar.jsx"
+import Sidebar from "./components/SideBar.jsx"
 
 export default function App() {
   const card = cardData.map((element)=>{
